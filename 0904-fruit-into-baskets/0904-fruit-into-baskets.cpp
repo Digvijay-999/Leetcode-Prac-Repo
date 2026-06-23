@@ -8,7 +8,6 @@ public:
         for (int r = 0; r < n; r++) {
             basket[fruits[r]]++;
             while (basket.size() > 2) {
-
                 basket[fruits[l]]--;
                 if (basket[fruits[l]] == 0) {
                     basket.erase(fruits[l]);
