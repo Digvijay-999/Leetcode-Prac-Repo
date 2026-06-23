@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool canFinish(vector<int>& piles, int h, int k) {
-        long long hours = 0;
+        long long ho = 0;
         for (int p : piles) {
-            hours += (p + k - 1) / k;
+            ho += (p + k - 1) / k;
         }
-        return h >= hours;
+        return h >= ho;
     }
+
     int minEatingSpeed(vector<int>& piles, int h) {
         int lo = 1;
         int hi = *max_element(piles.begin(), piles.end());
