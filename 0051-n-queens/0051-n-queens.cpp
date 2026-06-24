@@ -29,7 +29,7 @@ public:
     void insert(vector<string> board, int& n, int row,
                 vector<vector<string>>& ans) {
         if (row == n) {
-            ans.push_back({board});
+            ans.push_back(board);
             return;
         }
         for (int j = 0; j < n; j++) {
