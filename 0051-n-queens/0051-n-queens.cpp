@@ -1,14 +1,14 @@
 class Solution {
 public:
-    bool isSafe(vector<string> board, int row, int col, int n) {
+    bool isSafe(vector<string>& board, int row, int col, int n) {
 
-        for (int i = 0; i < n ; i++) {
-            if (board[row][i] == 'Q') {
-                return false;
-            }
-        }
+        // for (int i = 0; i < n ; i++) {
+        //     if (board[row][i] == 'Q') {
+        //         return false;
+        //     }
+        // }
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < row; i++) {
             if (board[i][col] == 'Q') {
                 return false;
             }
@@ -26,7 +26,7 @@ public:
         return true;
     }
 
-    void insert(vector<string> board, int& n, int row,
+    void insert(vector<string>& board, int n, int row,
                 vector<vector<string>>& ans) {
         if (row == n) {
             ans.push_back(board);
