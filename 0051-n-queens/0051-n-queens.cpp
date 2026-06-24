@@ -26,7 +26,7 @@ public:
         return true;
     }
 
-    void insert(vector<string>& board, int& n, int row,
+    void insert(vector<string> board, int& n, int row,
                 vector<vector<string>>& ans) {
         if (row == n) {
             ans.push_back({board});
