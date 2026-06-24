@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,15 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
