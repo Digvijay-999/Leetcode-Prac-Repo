@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
