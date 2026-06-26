@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0051-n-queens) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0051-n-queens) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
