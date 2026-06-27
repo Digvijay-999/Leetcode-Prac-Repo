@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0002-add-two-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
