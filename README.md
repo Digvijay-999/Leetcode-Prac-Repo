@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
