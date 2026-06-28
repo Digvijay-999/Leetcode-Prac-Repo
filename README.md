@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
