@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0013-roman-to-integer) |
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -139,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
