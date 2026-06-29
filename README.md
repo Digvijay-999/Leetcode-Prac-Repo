@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -175,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
