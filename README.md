@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0051-n-queens) |
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
@@ -172,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
