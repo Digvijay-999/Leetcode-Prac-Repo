@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Binary Search
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 ## Hash Table
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
