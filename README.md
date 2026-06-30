@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Heap (Priority Queue)
 |  |
