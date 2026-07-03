@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,8 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
