@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -124,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0022-generate-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Heap (Priority Queue)
 |  |
