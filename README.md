@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
