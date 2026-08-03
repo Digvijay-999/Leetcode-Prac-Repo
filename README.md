@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
 | [1288-remove-covered-intervals](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -291,4 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
