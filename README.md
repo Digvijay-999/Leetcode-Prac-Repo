@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
