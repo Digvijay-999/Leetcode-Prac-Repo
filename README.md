@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3620-network-recovery-pathways) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1563-stone-game-v) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -182,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0526-beautiful-arrangement) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bitmask
 |  |
 | ------- |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3867-sum-of-gcd-of-formed-pairs) |
