@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0046-permutations) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0042-trapping-rain-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
