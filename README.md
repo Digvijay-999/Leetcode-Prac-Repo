@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0948-bag-of-tokens) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1288-remove-covered-intervals](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1288-remove-covered-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0948-bag-of-tokens) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1288-remove-covered-intervals](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0877-stone-game) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1563-stone-game-v) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
