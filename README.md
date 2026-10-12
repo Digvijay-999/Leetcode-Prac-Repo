@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0948-bag-of-tokens) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2592-maximize-greatness-of-an-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2592-maximize-greatness-of-an-array) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1040-moving-stones-until-consecutive-ii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1563-stone-game-v) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3312-sorted-gcd-pair-queries) |
