@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1219-path-with-maximum-gold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Digvijay-999/Leetcode-Prac-Repo/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
